@@ -39,8 +39,3 @@ Put this rule as block
 put this as a block rule 
 =======================
 
-More information 
-
-This is uam rules for your website if u disable the UAM your site will be fairly hard to hit but if u keep it enabled you would be chilling
-if you leak these rules thats on you not me ZzMap Created these rules and he will create even more Thank you for purchasing my rules if u need any help
-please message me on telegram 
