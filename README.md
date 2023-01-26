@@ -1,6 +1,6 @@
 # Cloudflare-Rule
 
-# 
+```sh 
 Cloudflare rules
 =======================              
 1st: Under Attack Mode
@@ -38,4 +38,4 @@ Put this rule as block
 =======================
 put this as a block rule 
 =======================
-
+```
